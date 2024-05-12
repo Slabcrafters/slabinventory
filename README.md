@@ -70,7 +70,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - celso@gmail.com
+Your Name - cferrio@gmail.com
 Project Link: https://github.com/slabcrafters/slabinventory
 
 # slabinventory
